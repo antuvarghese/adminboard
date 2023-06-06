@@ -3,7 +3,8 @@
 AdminBoard is a web console designed to manage websites and users on a Linux server. It provides an intuitive and user-friendly interface for administrators to efficiently handle website management tasks and user administration.
 
 ## Features
-Website Management: AdminBoard allows administrators to manage websites hosted on the Linux server. It provides functionalities such as creating new websites, installing wordpress and more.
+
+**Website Management:** AdminBoard allows administrators to manage websites hosted on the Linux server. It provides functionalities such as creating new websites, installing wordpress and more.
 
 **User Administration:** With AdminBoard, administrators can easily manage users on the Linux server. It enables functionalities like creating new users, modifying user permissions, resetting passwords, and managing user groups.
 
@@ -15,7 +16,7 @@ Follow these steps to install AdminBoard on your Linux server:
 
 Clone the repository to your server:
 
-git clone https://github.com/your-username/adminboard.git
+git clone https://github.com/antuvarghese/adminboard.git
 
 Configure the server environment:
 
@@ -27,7 +28,7 @@ Create a MySQL database for AdminBoard.
 database name should be "adminboard"
 Import the provided SQL schema file (adminboard.sql) into the database.
 
-NB : Do not upload these files on a production server. Only use in a test server for test purpose. Besides, some fuctions or features are not completed. I appreciate your interest in improving the codebase of AdminBoard. By contributing, you can help enhance its functionality, fix bugs, and introduce new features.
+NB : Do not upload these files on a production server. Only use in a test server for test purpose. Besides, some functions or features are not completed yet. I appreciate your interest in improving the codebase of AdminBoard. By contributing, you can help enhance its functionality, fix bugs, and introduce new features.
 
 **Theme options :** Dark, Light
 
