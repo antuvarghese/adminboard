@@ -29,7 +29,7 @@ Import the provided SQL schema file (adminboard.sql) into the database.
 
 NB : Do not upload these files on a production server. Only use in a test server for test purpose. Besides, some fuctions or features are not completed. I appreciate your interest in improving the codebase of AdminBoard. By contributing, you can help enhance its functionality, fix bugs, and introduce new features.
 
-Theme options : Dark, Light
+**Theme options :** Dark, Light
 
 ![dashboard](https://github.com/antuvarghese/adminboard/assets/55937016/6bf91c1f-4c13-416d-88e4-1b9f05ca361b)
 
