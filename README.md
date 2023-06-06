@@ -10,6 +10,7 @@ Website Management: AdminBoard allows administrators to manage websites hosted o
 **Dashboard:** The dashboard provides a quick overview of essential server statistics, including CPU usage, memory usage, disk space usage. It helps administrators monitor server performance and identify any potential issues.
 
 **Installation**
+
 Follow these steps to install AdminBoard on your Linux server:
 
 Clone the repository to your server:
